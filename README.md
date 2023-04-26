@@ -5,7 +5,7 @@ This program can either by run normally with ```python3 auto-makemkv.py``` or in
 
 Normal mode prompts the user for a library path and a destination path and iterates through all Blu-ray and Video folders and images within the library path.
 The user is prompted at each step of the process and can manually match each disc with results from TMDB before converting to MKV format.
-MKV files are placed in their own named folders within the chosen destination, in the format "Title (Year) for easy organization and matching with programs like Plex or Jellyfin.
+MKV files are placed in their own named folders within the chosen destination, in the format "Title (Year)" for easy organization and matching with programs like Plex or Jellyfin.
 A process log is also created which allows the user to automatically skip already processed discs when the program is run again.
 
 Auto mode proceeds through TMDB matching and makemkv conversion without user input, using all default options. This mode is ideal for running as a scheduled task, though it may fail to match movies or produce other unexpected errors.

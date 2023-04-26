@@ -26,3 +26,7 @@ Dependencies:
 Python modules can either be installed manually with ```pip install <module-name>```, or automatically using the included ```requirements.txt``` file, by running ```pip install -r requirements.txt```
 
 This script has only been tested on Linux, and would likely need modification to be run on other platforms.
+
+Features to be added:
+- Compatability with television media
+- Ability to run without TMDB API, using manually entered titles/years for each disc

@@ -14,7 +14,7 @@ In either mode, the ```api_key``` variable in ```auto-makemkv.py``` must be set 
 
 In auto mode, the ```lib_path``` and ```dest_path``` variables must also be set to your desired library and destination paths.
 
-You may run into various error messages during the MKV generation process, such as disc read speed messages or errors indicating that no optical drive is detected. You can mostly ignore these, as they are intended for use when ripping from a physcical disc.
+You may run into various error messages during the MKV generation process, such as disc read speed messages or errors indicating that no optical drive is detected. You can mostly ignore these, as they are intended for use when ripping from a physical disc.
 
 Dependencies:
 

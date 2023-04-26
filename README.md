@@ -19,7 +19,7 @@ You may run into various error messages during the MKV generation process, such 
 Dependencies:
 
 - [makemkvcon](https://forum.makemkv.com/forum/viewtopic.php?t=224) - MakeMKV console tools bundled with a standard MakeMKV install. I would suggest building MakeMKV from source, as the snap store version has permission issues integrating with python-makemkv. [Here's a handy script for easily building MakeMKV from source.](https://github.com/chase-cobb/makemkv-linux-installer-script)
-- [makemkv[cli]](https://pypi.org/project/makemkv/) - Python module for running makemkvcon commands.
+- [makemkv](https://pypi.org/project/makemkv/) - Python module for running makemkvcon commands.
 - [parse-torrent-title](https://pypi.org/project/parse-torrent-title/) - Python module for extracting torrent info from common torrent title formats, before searching TMDB.
 - [requests](https://pypi.org/project/requests/) - Python requests module necessary for sending API requests to TMDB.
 

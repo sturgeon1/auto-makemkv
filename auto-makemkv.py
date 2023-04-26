@@ -1,4 +1,4 @@
-from makemkv import MakeMKV #pip install makemkv[cli]
+from makemkv import MakeMKV #pip install makemkv
 import PTN #pip install parse-torrent-title
 import requests #pip install requests
 import os

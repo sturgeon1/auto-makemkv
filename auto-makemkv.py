@@ -1,7 +1,7 @@
-from makemkv import MakeMKV 
-import PTN 
+from makemkv import MakeMKV #pip install makemkv[cli]
+import PTN #pip install parse-torrent-title
+import requests #pip install requests
 import os
-import requests
 import sys
 
 

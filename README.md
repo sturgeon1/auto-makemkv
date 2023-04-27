@@ -1,7 +1,7 @@
 # auto-makemkv
 Python tool for matching Blu-ray and Video disc files and folders with movies retrieved from the TMDB API, and converting to MKV format with makemkvcon.
 
-This program can either by run normally with ```python3 auto-makemkv.py``` or in auto mode with ```python3 auto-makemkv.py auto```
+This program can either be run normally with ```python3 auto-makemkv.py``` or in auto mode with ```python3 auto-makemkv.py auto```
 
 Normal mode prompts the user for a library path and a destination path and iterates through all Blu-ray and Video folders and images within the library path.
 The user is prompted at each step of the process and can manually match each disc with results from TMDB before converting to MKV format.
